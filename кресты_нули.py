@@ -61,6 +61,3 @@ while wincheck(board) != "WIN":
   board = move(board,curplayer)
   curplayer = turn(curplayer)
   s+=1
-
-if 1 == 1 == 1 == 1 :
-  print(2)
